@@ -44,7 +44,7 @@ const AnalyzePage = ({
             AI RESUME ANALYZER
           </h1>
           <p className="text-gray-400 font-light">
-            Elite analysis for professional excellence
+            Analysis for professional excellence
           </p>
         </div>
 

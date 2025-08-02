@@ -1,3 +1,7 @@
+[Live Demo](https://ai-resume-analyzer-ashy.vercel.app/)
+> Explore the live app to see how Generative AI evaluates resumes against job descriptions with actionable, interview-ready insights.
+
+
 # AI Resume Analyzer
 
 **AI Resume Analyzer** is a full-stack web application that leverages **Generative AI** to evaluate resumes against job descriptions. It uses the **Google Gemini (PaLM 2)** API to perform a deep, contextual understanding of candidate profiles and return actionable, human-like feedback.
@@ -62,7 +66,7 @@ The AI replaces manual human analysis by performing semantic matching rather tha
 | Backend     | Node.js, Express                   |
 | AI Provider | Google Gemini 1.5 / 2.5 Flash API  |
 | File Parsing| `pdf-parse`, `mammoth`, `multer`   |
-| Deployment  | (Optional) Render / Vercel         |
+| Deployment  | Render / Vercel         |
 
 ---
 
