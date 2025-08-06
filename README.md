@@ -77,3 +77,12 @@ The AI replaces manual human analysis by performing semantic matching rather tha
 ```bash
 git clone https://github.com/your-username/ai-resume-analyzer.git
 cd ai-resume-analyzer
+```
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
